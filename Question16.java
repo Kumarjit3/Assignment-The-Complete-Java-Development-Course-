@@ -70,7 +70,6 @@ public class Question16
         {
             System.out.println("\nThe Contact Information Is Already Have! No Need To Add it Again\n");
             System.out.print("\nPress Emter key for continue......... ");
-            
         }
         return false;
     }
